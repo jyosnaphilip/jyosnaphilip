@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a first year Data Science student at Christ University,Lavasa campus.
 I am still new to this platform
-- 🔭 I'm currently working on a banking management system which is part of an assignment.
+- 🔭 I want to explore programming languages as much as I can in this platform
 - 🌱 I'm currently learning Python,infact this account was started for storing our Lab files in a repository.
 - 
 - 😄 Pronouns:She/Her .
