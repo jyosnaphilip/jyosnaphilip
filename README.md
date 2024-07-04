@@ -24,7 +24,7 @@ Here's what you can find in my GitHub profile!
 |[Customer Segmentation with DBScan](https://github.com/jyosnaphilip/Exploring_DBSCAN)|Python, Machine Learning| Completed|
 |[Predictive Maintenance using Machine Learning](https://github.com/jyosnaphilip/Predictive-Maintenance)| Python, Machine Learning, Collaboration| Completed|
 |[Azure Hosted Flask App for Deploying Predictive Maintenance model](https://github.com/jyosnaphilip/predictive-maintenance-app)|HTML, Bootstrap, CSS, Azure|Completed|
-|[Visualization of Environmental Data using Java](https://github.com/jyosnaphilip/data_visualisation_with_java)|Java, Data ANalysis|Completed|
+|[Visualization of Environmental Data using Java](https://github.com/jyosnaphilip/data_visualisation_with_java)|Java, Data Analysis|Completed|
 |[Hungry Student Django App](https://github.com/jyosnaphilip/hungry-Student)|Django, Full Stack Web Development, Web Development|In-Progress|
 |[Mental Health Analysis in CUL](https://github.com/jyosnaphilip/MentalHealth_in_CUL_EDA)|Data Analysis, Data Visualization, Python| Completed|
 |[End to End Disaster Monitoring System using Crowd Sourced Data](https://github.com/jyosnaphilip/Crowdsource-data-analysis-for-disaster-response)|Machine Learning|Started|
