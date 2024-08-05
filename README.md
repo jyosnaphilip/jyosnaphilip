@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a M.Sc Data Science student at Christ University, Pune Lavasa campus.
-I;m interested in using Data Science in the field of environmental science and healthcare.
+I'm interested in using Data Science in the field of environmental science and healthcare.
 - 😄 Pronouns:She/Her .
 
 <!--
